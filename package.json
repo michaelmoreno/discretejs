@@ -1,0 +1,26 @@
+{
+  "name": "discretejs",
+  "version": "1.0.0",
+  "description": "A library for expressing discrete mathematics in JavaScript",
+  "author": "Michael Moreno",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmoreno/discretejs.git"
+  },
+  "keywords": ["discrete", "math", "quantifiers", "logic", "predicate", "proposition"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelmoreno/discretejs/issues"
+  },
+  "homepage": "https://github.com/michaelmoreno/discretejs#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
