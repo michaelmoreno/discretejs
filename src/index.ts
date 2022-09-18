@@ -27,3 +27,5 @@ const All = A
 const Exists = E
 const forAll = A
 const thereExists = E
+
+export { element, set, Propsition, Predicate, Quantifier, A, E, All, Exists, forAll, thereExists }
